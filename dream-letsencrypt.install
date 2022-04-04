@@ -1,0 +1,7 @@
+lib: [
+  "_build/install/default/lib/dream-letsencrypt/META"
+  "_build/install/default/lib/dream-letsencrypt/dune-package"
+]
+bin: [
+  "_build/install/default/bin/dream-letsencrypt"
+]

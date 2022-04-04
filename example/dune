@@ -1,0 +1,6 @@
+(executable
+ (public_name dream-letsencrypt)
+ (name main)
+ (preprocess
+  (pps lwt_ppx))
+ (libraries dream letsencrypt hyper uri cmdliner))

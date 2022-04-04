@@ -1,0 +1,6 @@
+[submodule "hyper"]
+	path = hyper
+	url = git@github.com:aantron/hyper.git
+[submodule "dream"]
+	path = dream
+	url = https://github.com/andreypopp/dream.git
