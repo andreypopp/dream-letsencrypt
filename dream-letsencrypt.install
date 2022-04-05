@@ -5,3 +5,6 @@ lib: [
 bin: [
   "_build/install/default/bin/dream-letsencrypt"
 ]
+doc: [
+  "_build/install/default/doc/dream-letsencrypt/README.md"
+]
